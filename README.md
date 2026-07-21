@@ -23,8 +23,6 @@ PHP · Laravel · Symfony · C# · TypeScript
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkxElocius&show_icons=true&hide_title=true&count_private=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkxElocius&layout=compact&hide_border=true)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DarkxElocius&hide_border=true)
 
 ## Contact
