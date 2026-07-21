@@ -21,10 +21,6 @@ The original team is long gone, and I'm the only one left from that era — thou
 
 PHP · Laravel · Symfony · C# · TypeScript
 
-## Stats
-
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DarkxElocius&hide_border=true)
-
 ## Contact
 
 - Email: pavel.pastore@gmail.com
