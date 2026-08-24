@@ -23,5 +23,5 @@ PHP · Laravel · Symfony · C# · TypeScript
 
 ## Contact
 
-- Email: pavel.pastore@gmail.com
+- Email: pavel.pastore@dummythinking.com
 - Discord: elocius
